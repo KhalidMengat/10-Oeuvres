@@ -1,15 +1,8 @@
-h1
-{
-    text-align: center;
-}
-body
+body 
 {
     background: url(/pics/baack.jpg) no-repeat fixed;
     background: cover ;
 }
-.navbar-brand
-{
-    border: white;
-    border-radius: 10%;
-    
+h1{
+    color: white;
 }
