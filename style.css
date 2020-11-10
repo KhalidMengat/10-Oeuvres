@@ -1,4 +1,15 @@
-.img
+h1
 {
-    width: 50%;
+    text-align: center;
+}
+body
+{
+    background: url(/pics/baack.jpg) no-repeat fixed;
+    background: cover ;
+}
+.navbar-brand
+{
+    border: white;
+    border-radius: 10%;
+    
 }
